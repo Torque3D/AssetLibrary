@@ -1,0 +1,14 @@
+<Assets>
+    <Asset>
+        <Name:"TestAsset"/>
+        <Creator:"Jeff Raab"/>
+        <Description:"A Simple test asset entry to test the idea of an curated Asset Library"/>
+        <RepoURL:"https://github.com/Areloch/TestAsset"/>
+        <IssuesURL:"https://github.com/Areloch/TestAsset/issues"/>
+        <Versions>
+            <Version:"1"/>
+            <EngineVersionTarget:"4.0"/>
+            <DownloadURL:"https://github.com/Areloch/TestAsset/archive/master.zip"/>
+        </Versions>
+    </Asset>    
+</Assets>
