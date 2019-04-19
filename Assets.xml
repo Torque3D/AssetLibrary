@@ -1,14 +1,8 @@
-<Assets>
-    <Asset>
-        <Name:"TestAsset"/>
-        <Creator:"Jeff Raab"/>
-        <Description:"A Simple test asset entry to test the idea of an curated Asset Library"/>
-        <RepoURL:"https://github.com/Areloch/TestAsset"/>
-        <IssuesURL:"https://github.com/Areloch/TestAsset/issues"/>
-        <Versions>
-            <Version:"1"/>
-            <EngineVersionTarget:"4.0"/>
-            <DownloadURL:"https://github.com/Areloch/TestAsset/archive/master.zip"/>
-        </Versions>
-    </Asset>    
-</Assets>
+<AssetLibrary>
+    <Creators>
+        <Creator Name="Jeff Raab" GithubPage="https://github.com/Areloch" Website="http://torque3d.org" Twitter="https://twitter/ghcgames" Facebook="" Patreon="https://patreon.com/Areloch"/>
+    </Creators>
+    <Assets>
+        <Asset Name="TestAsset" Creator="Jeff Raab" AssetType="AssetPack" Tags="Art,Test,Demonstration,Total Garbage" Description="A Simple test asset entry to test the idea of an curated Asset Library" RepoURL="https://github.com/Areloch/TestAsset" IssuesURL="https://github.com/Areloch/TestAsset/issues" PreviewImageURL="https://github.com/Areloch/TestAsset/AssetImage.png" EngineVersionTarget="4.0"/>
+    </Assets>  
+</AssetLibrary>
