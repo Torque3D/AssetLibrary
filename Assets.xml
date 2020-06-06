@@ -1,8 +1,8 @@
 <AssetLibrary>
     <Creators>
-        <Creator Name="Jeff Raab" GithubPage="https://github.com/Areloch" Website="http://torque3d.org" Twitter="https://twitter/ghcgames" Facebook="" Patreon="https://patreon.com/Areloch"/>
+        <Creator Name="TorqueGameEngines" GithubPage="https://github.com/TorqueGameEngines" Website="http://torque3d.org" Twitter="https://twitter/Torque3D" Facebook="" Patreon=""/>
     </Creators>
     <Assets>
-        <Asset Name="TestAsset" Creator="Jeff Raab" AssetType="AssetPack" Tags="Art,Test,Demonstration,Total Garbage" Description="A Simple test asset entry to test the idea of an curated Asset Library" RepoURL="https://github.com/Areloch/TestAsset" IssuesURL="https://github.com/Areloch/TestAsset/issues" PreviewImageURL="https://github.com/Areloch/TestAsset/AssetImage.png" EngineVersionTarget="4.0"/>
+        <Asset Name="FPSGameplay" Creator="TorqueGameEngines" AssetType="AssetPack" Tags="Art,Gameplay,FPS" Description="A basic FPS Gameplay example module" RepoURL="https://github.com/Torque3DResources/FPSGameplay" IssuesURL="https://github.com/Torque3DResources/FPSGameplay/issues" PreviewImageURL="https://github.com/Torque3DResources/FPSGameplay/AssetImage.png" EngineVersionTarget="4.0"/>
     </Assets>  
 </AssetLibrary>
